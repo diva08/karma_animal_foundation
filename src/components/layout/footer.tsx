@@ -12,9 +12,8 @@ const navigation = {
     { name: "Dogs", href: "/dogs" },
   ],
   social: [
-    { name: "Instagram", href: "#", icon: Instagram },
-    { name: "Facebook", href: "#", icon: Facebook },
-    { name: "LinkedIn", href: "#", icon: Linkedin },
+    { name: "Instagram", href: "https://www.instagram.com/karma_foundation/", icon: Instagram },
+    { name: "Facebook", href: "https://www.facebook.com/karmaanimalfoundation/", icon: Facebook },
     { name: "Email", href: "mailto:info@karmaanimalfoundation.org", icon: Mail },
   ],
 };
