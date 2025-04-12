@@ -279,7 +279,7 @@ export default function Home() {
                 },
                 {
                   id: "testimonial-4",
-                  text: "Awesome construction dogs were very clean and kept in very hygienic conditions wholesome nutrients and fresh from the farm human grade ingredients were used by well trained staff for cooking fresh evening meals. It shows they cook every meal fresh. Thanks for giving such wonderful care to these beautiful babies god bless the whole team for a successful future",
+                  text: "Awesome construction. Dogs were very clean and kept in very hygienic conditions wholesome nutrients and fresh from the farm human grade ingredients were used by well trained staff for cooking fresh evening meals. It shows they cook every meal fresh. Thanks for giving such wonderful care to these beautiful babies god bless the whole team for a successful future",
                 },
               ].map((testimonial, index) => (
                 <div
